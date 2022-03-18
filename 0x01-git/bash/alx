@@ -1,8 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-=======
-echo "ALX School"
-echo "ALX School"
-echo "ALX School"
-echo "The school is open!"
->>>>>>> update_script
+echo “ALX School is so cool!
