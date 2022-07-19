@@ -1,2 +1,2 @@
-David Effiong Effiong Mboko
+David Effiong Effiong Mbok
 My first readme
