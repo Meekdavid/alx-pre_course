@@ -1,2 +1,2 @@
-David Effiong 
+David Effiong
 My first readme
