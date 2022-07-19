@@ -1,2 +1,2 @@
-David 
+David
 My first readme
