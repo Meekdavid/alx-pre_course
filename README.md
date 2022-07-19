@@ -1,2 +1,2 @@
-David Effi
+David Eff
 My first readme
